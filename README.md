@@ -2,6 +2,12 @@
 
 This project was scaffolded with [zksync-cli](https://github.com/matter-labs/zksync-cli).
 
+## Address
+| Contract | Address |
+| --- | --- |
+| `Permit2` | [`0x7dBaee32F615b50B318A8650eE23214768d25b34`](https://goerli.explorer.zksync.io/address/0x7dBaee32F615b50B318A8650eE23214768d25b34#contract) |
+
+
 ## Project structure
 
 - `/contracts`: smart contracts.
