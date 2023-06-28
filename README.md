@@ -3,8 +3,8 @@
 This project was scaffolded with [zksync-cli](https://github.com/matter-labs/zksync-cli).
 
 ## Address
-| Contract | Address |
-| --- | --- |
+| Contract | Testnet Address | Mainnet Address |
+| --- | --- | --- |
 | `Permit2` | [`0x7dBaee32F615b50B318A8650eE23214768d25b34`](https://goerli.explorer.zksync.io/address/0x7dBaee32F615b50B318A8650eE23214768d25b34#contract) | [`0x37a47BEd105deFc9d4242C8F7232f1fF61e24976`](https://explorer.zksync.io/address/0x37a47BEd105deFc9d4242C8F7232f1fF61e24976) |
 
 
