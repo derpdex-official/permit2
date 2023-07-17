@@ -2,7 +2,7 @@
 Permit2 introduces a low-overhead, next generation token approval/meta-tx system to make token approvals easier, more secure, and more consistent across applications.
 
 ## Bug Bounty
-This repository is subject to the DerpDEX Bug Bounty program, per the terms defined (here)[https://derpdex.gitbook.io/home/developer-bug-bounty/guidelines].
+This repository is subject to the DerpDEX Bug Bounty program, per the terms defined [here](https://derpdex.gitbook.io/home/developer-bug-bounty/guidelines).
 
 ## Address
 | Contract | Testnet Address | Mainnet Address |
