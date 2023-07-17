@@ -1,6 +1,5 @@
-# zkSync Hardhat project
-
-This project was scaffolded with [zksync-cli](https://github.com/matter-labs/zksync-cli).
+# Permit2
+Permit2 introduces a low-overhead, next generation token approval/meta-tx system to make token approvals easier, more secure, and more consistent across applications.
 
 ## Address
 | Contract | Testnet Address | Mainnet Address |
@@ -38,11 +37,3 @@ WALLET_PRIVATE_KEY=123cde574ccff....
 In order to run test, you need to start the zkSync local environment. Please check [this section of the docs](https://v2-docs.zksync.io/api/hardhat/testing.html#prerequisites) which contains all the details.
 
 If you do not start the zkSync local environment, the tests will fail with error `Error: could not detect network (event="noNetwork", code=NETWORK_ERROR, version=providers/5.7.2)`
-
-## Official Links
-
-- [Website](https://zksync.io/)
-- [Documentation](https://v2-docs.zksync.io/dev/)
-- [GitHub](https://github.com/matter-labs)
-- [Twitter](https://twitter.com/zksync)
-- [Discord](https://discord.gg/nMaPGrDDwk)
